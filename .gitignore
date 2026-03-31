@@ -1,2 +1,4 @@
 node_modules/
 add gitignore
+.env
+ignore env file
